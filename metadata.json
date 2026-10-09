@@ -1,0 +1,7 @@
+{
+  "name": "Smart Grid Energy Arbitrage Agent",
+  "description": "AI-powered micro-agent and interactive monitoring dashboard for solar generation forecasting, battery storage optimization, time-of-use energy arbitrage, and carbon reduction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
